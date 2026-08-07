@@ -34,3 +34,7 @@ Displays a clean label showing:
 (e.g., `↓ 45 Mbps ↑ 3.2 Mbps`)
 
 The window hides itself when you try to interact with the area it occupies, then reappears when you move the mouse away, making it non-intrusive while providing constant network monitoring.
+
+
+<!-- AUTO UPDATE -->
+Last maintenance: 2026-08-07 05:40 UTC
